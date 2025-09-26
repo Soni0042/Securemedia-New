@@ -1,7 +1,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
-<url>
-<loc>https://thesecuremedia.com/</loc>
-<lastmod>2025-09-26T12:34:27+00:00</lastmod>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://thesecuremedia.com/</loc>
+  </url>
+
+  <url>
+    <loc>https://thesecuremedia.com/about-us</loc>
+  </url>
+
+  <url>
+    <loc>https://thesecuremedia.com/contact-us</loc>
+  </url>
+
+  <url>
+    <loc>https://thesecuremedia.com/blog</loc>
+  </url>
+
+  <url>
+    <loc>https://thesecuremedia.com/services/affiliate-marketing</loc>
+  </url>
+
+  <url>
+    <loc>https://thesecuremedia.com/services/performance-marketing</loc>
+  </url>
+
+  <url>
+    <loc>https://thesecuremedia.com/services/seo</loc>
+  </url>
+
+  <url>
+    <loc>https://thesecuremedia.com/services/email-marketing</loc>
+  </url>
+
+  <url>
+    <loc>https://thesecuremedia.com/services/ecommerce-marketing</loc>
+  </url>
+
+  <url>
+    <loc>https://thesecuremedia.com/gallery/in-house</loc>
+  </url>
+
+  <url>
+    <loc>https://thesecuremedia.com/gallery/event</loc>
+  </url>
+
+  <url>
+    <loc>https://thesecuremedia.com/people-in-sam</loc>
+  </url>
+
+  <url>
+    <loc>https://thesecuremedia.com/login/advertiser</loc>
+  </url>
+
+  <url>
+    <loc>https://thesecuremedia.com/login/publisher</loc>
+  </url>
+
+  <url>
+    <loc>https://thesecuremedia.com/privacy-policy</loc>
+  </url>
+
 </urlset>
