@@ -9,7 +9,7 @@ export default function Blog() {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    fetch("https://thesecuremedia.com/blog/wp-json/wp/v2/posts?_embed")
+    fetch("https://thesecuremedia.com/blogs/wp-json/wp/v2/posts?_embed")
       .then((res) => {
         if (!res.ok) {
           throw new Error("Network response was not ok");

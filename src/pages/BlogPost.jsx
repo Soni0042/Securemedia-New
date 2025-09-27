@@ -8,7 +8,7 @@ export default function BlogPost() {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    fetch(`https://thesecuremedia.com/blog/wp-json/wp/v2/posts?slug=${slug}&_embed`)
+    fetch(`https://thesecuremedia.com/blogs/wp-json/wp/v2/posts?slug=${slug}&_embed`)
       .then((res) => {
         if (!res.ok) throw new Error("Failed to fetch post");
         return res.json();
