@@ -256,7 +256,7 @@ export default function Home() {
               className="w-32 h-32 rounded-full object-cover"
             />
             <h3 className="mt-6 text-2xl font-bold text-gray-900 tracking-tight">Himanshu Singh</h3>
-            <p className="text-red-600 font-medium">CEO of Secure Affiliate Media</p>
+            <p className="text-red-600 font-medium">CEO & Founder</p>
             <p className="mt-4 text-gray-600 leading-relaxed text-base">
               Himanshu has a compelling vision for performance marketing influenced by his early days in the affiliate sector. With six months of direct CPL delivery experience, he gained an excellent grip on lead generation dynamics. This expertise fueled the creation of Secure Affiliate Media, initially dominating the domestic CPL space. Under his leadership, the company achieved massive growth in under three years, built a strong international presence, and expanded into new performance marketing verticals.
             </p>
@@ -386,18 +386,18 @@ export default function Home() {
           >
             {/* Form fields unchanged */}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-              <InputField label="First Name" placeholder="Enter your first name" name="first_name" />
-              <InputField label="Last Name" placeholder="Enter your last name" name="last_name" />
+              <InputField label="First Name" placeholder="Enter your first name" name="First Name" />
+              <InputField label="Last Name" placeholder="Enter your last name" name="Last Name" />
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-              <InputField label="Email Address" placeholder="Enter your email" type="email" name="email" />
-              <InputField label="Phone Number" placeholder="Enter your phone number" type="tel" name="phone" />
+              <InputField label="Email Address" placeholder="Enter your email" type="email" name="Email" />
+              <InputField label="Phone Number" placeholder="Enter your phone number" type="tel" name="Phone Number" />
             </div>
-            <InputField label="Subject" placeholder="Enter subject" name="subject" />
+            <InputField label="Subject" placeholder="Enter subject" name="Subject" />
             <div>
               <label className="block text-gray-700 font-medium mb-2">Message</label>
               <textarea
-                name="message"
+                name="Message"
                 placeholder="Write your message..."
                 rows="5"
                 required
