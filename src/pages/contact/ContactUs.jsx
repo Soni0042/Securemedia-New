@@ -104,18 +104,18 @@ export default function Contact() {
           >
             {/* Form fields unchanged */}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-              <InputField label="First Name" placeholder="Enter your first name" name="first_name" />
-              <InputField label="Last Name" placeholder="Enter your last name" name="last_name" />
+              <InputField label="First Name" placeholder="Enter your first name" name="First Name" />
+              <InputField label="Last Name" placeholder="Enter your last name" name="Last Name" />
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-              <InputField label="Email Address" placeholder="Enter your email" type="email" name="email" />
-              <InputField label="Phone Number" placeholder="Enter your phone number" type="tel" name="phone" />
+              <InputField label="Email Address" placeholder="Enter your email" type="email" name="Email" />
+              <InputField label="Phone Number" placeholder="Enter your phone number" type="tel" name="Phone Number" />
             </div>
-            <InputField label="Subject" placeholder="Enter subject" name="subject" />
+            <InputField label="Subject" placeholder="Enter subject" name="Subject" />
             <div>
               <label className="block text-gray-700 font-medium mb-2">Message</label>
               <textarea
-                name="message"
+                name="Message"
                 placeholder="Write your message..."
                 rows="5"
                 required
